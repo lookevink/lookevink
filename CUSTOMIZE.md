@@ -8,16 +8,18 @@ The profile is deliberately written so every guess is easy to replace.
 - Add LinkedIn, email, or résumé buttons beside the website button.
 - Replace `https://loo.ski` if a different personal site should be primary.
 
-## Spotify now playing
+## Apple Music listening card
 
-1. Authorize your Spotify account at [spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/login).
-2. Copy the generated card URL.
-3. Replace `YOUR_SPOTIFY_UID` below and paste the block into `README.md`.
+Apple Music does not expose a simple public “now playing” image for profile READMEs. The practical bridge is Last.fm:
+
+1. Create a [Last.fm](https://www.last.fm/join) account.
+2. Scrobble Apple Music plays to Last.fm with an Apple Music-compatible scrobbler.
+3. Replace `YOUR_LASTFM_USERNAME` below and paste the block into `README.md`.
 
 ```html
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify now playing" />
+  <a href="https://www.last.fm/user/YOUR_LASTFM_USERNAME">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=YOUR_LASTFM_USERNAME" alt="Recently played on Apple Music" />
   </a>
 </p>
 ```

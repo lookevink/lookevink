@@ -81,18 +81,10 @@ I'm interested in filmmaking and storytelling, environmental and scientific data
   <summary><strong>📊 Numbers I don't take too seriously</strong></summary>
   <br />
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=lookevink&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Kevin's GitHub statistics" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lookevink&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Languages used in Kevin's public repositories" />
+    <a href="https://github.com/cicirello/user-statistician">
+      <img src="./images/userstats.svg" alt="Kevin's GitHub activity and language statistics" />
+    </a>
   </p>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=lookevink&theme=github-dark-blue&hide_border=true" alt="Kevin's GitHub contribution streak" />
-  </p>
-</details>
-
-<details>
-  <summary><strong>🎧 Add my live soundtrack</strong></summary>
-  <br />
-  Spotify needs a one-time authorization before it can show a now-playing card. The ready-to-enable snippet is in <a href="./CUSTOMIZE.md"><code>CUSTOMIZE.md</code></a>.
 </details>
 
 <p align="center">
