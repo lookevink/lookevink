@@ -26,14 +26,14 @@ I'm a product-minded software engineer in New York, currently building at **Send
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/lookevink/whatif">🎬 whatif</a></h3>
-      <p>An AI-native local studio for filmmakers: versioned worlds, branching storylines, storyboards, and video-generation pipelines.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>AI agents</code></p>
+      <h3><a href="https://github.com/looskis/kueueski">⚡ kueueski</a></h3>
+      <p>A fast command-line client for inspecting and operating BullMQ queues.</p>
+      <p><code>Rust</code> <code>BullMQ</code> <code>CLI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/lookevink/podio-sdk">🧰 podio-sdk</a></h3>
-      <p>An opinionated TypeScript SDK built to make real-world Podio automation less painful.</p>
-      <p><code>TypeScript</code> <code>SDK</code> <code>Automation</code></p>
+      <h3><a href="https://github.com/looskis/blueski">💬 blueski</a></h3>
+      <p>An AppleScript-powered macOS Messages daemon for sending and receiving iMessage.</p>
+      <p><code>Rust</code> <code>AppleScript</code> <code>macOS</code></p>
     </td>
   </tr>
   <tr>

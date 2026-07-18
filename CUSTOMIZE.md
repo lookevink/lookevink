@@ -41,8 +41,8 @@ GitHub Sponsors is not currently enabled on this account. After enrolling, add a
 
 Suggested native profile pins:
 
-1. `whatif`
-2. `podio-sdk`
+1. `looskis/kueueski`
+2. `looskis/blueski`
 3. `srs-preprocessing`
 4. `eso-portal-doc`
 5. `embed-gpt-chat`

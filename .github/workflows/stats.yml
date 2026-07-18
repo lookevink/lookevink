@@ -25,7 +25,7 @@ jobs:
         with:
           colors: dark-dimmed
           custom-title: GitHub, approximately
-          hide-keys: private, sponsors, sponsoring
+          hide-keys: private, sponsors, sponsoring, mostStarred, mostForked
           animated-language-chart: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
