@@ -66,7 +66,11 @@ I'm a product-minded software engineer in New York, currently building at **Send
 ## Latest public activity
 
 <!-- BLOG-POST-LIST:START -->
-- Building in public—watch this space.
+- [lookevink pushed homebrew-tap](https://github.com/looskis/homebrew-tap/compare/b22ba17d0e...c20713c136)
+- [lookevink pushed lookevink](https://github.com/lookevink/lookevink/compare/644251ead3...9109538cba)
+- [lookevink pushed lookevink](https://github.com/lookevink/lookevink/compare/6e50f40022...644251ead3)
+- [lookevink pushed blueski](https://github.com/looskis/blueski/compare/20eb1d41f7...0e3c8df8d4)
+- [lookevink created a branch](https://github.com/lookevink/lookevink/compare/0000000000...6e50f40022)
 <!-- BLOG-POST-LIST:END -->
 
 ## Beyond the code
