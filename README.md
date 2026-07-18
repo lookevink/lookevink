@@ -16,9 +16,9 @@
 
 I'm a product-minded software engineer in New York, currently building at **Sendblue**. I like turning fuzzy ideas into dependable products—especially where AI, developer tools, communication, and thoughtful interfaces overlap.
 
-- 🔭 **Currently building:** [loo.ski](https://loo.ski), a terminal-flavored, multi-channel AI chat experience
-- 🧠 **Ask me about:** AI products, TypeScript, Python, Next.js, APIs, automation, and chat systems
-- 🧭 **My bias:** ship the smallest useful thing, learn from it, then make it excellent
+- 🔭 **Currently building:** [loo.ski](https://loo.ski), an agentic doppelganger of me!
+- 🧠 **Ask me about:** AI, reverse engineering, energy, environment, & finance
+- 🧭 **My bias:** ship the smallest useful thing
 - 🐛 **Production bugs introduced:** classified
 
 ## Selected work
