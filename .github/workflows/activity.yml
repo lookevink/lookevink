@@ -1,0 +1,26 @@
+name: Update latest public activity
+
+on:
+  schedule:
+    - cron: "41 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: true
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Update activity list
+        uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597 # v1.9.6
+        with:
+          feed_list: "https://github.com/lookevink.atom"
+          max_post_count: 5
+          commit_message: "chore: update latest public activity"
+
