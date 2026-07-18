@@ -96,4 +96,3 @@ I'm interested in filmmaking and storytelling, environmental and scientific data
 </p>
 
 <p align="center"><em>Build useful things. Keep a little weirdness.</em></p>
-

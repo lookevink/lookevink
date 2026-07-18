@@ -45,4 +45,3 @@ Suggested native profile pins:
 4. `eso-portal-doc`
 5. `embed-gpt-chat`
 6. `noah_nc4`
-

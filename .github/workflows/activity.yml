@@ -23,4 +23,3 @@ jobs:
           feed_list: "https://github.com/lookevink.atom"
           max_post_count: 5
           commit_message: "chore: update latest public activity"
-
