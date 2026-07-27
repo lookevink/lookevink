@@ -26,6 +26,18 @@ I'm a product-minded software engineer in New York, currently building at **Send
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/lookevink/quantis-core">Quantis Core</a></h3>
+      <p>Experiment in latent predictive anomaly detection for infrastructure telemetry</p>
+      <p><code>Python</code> <code>JEPA</code> <code>ML</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lookevink/srs-preprocessing">🔬 SRS preprocessing</a></h3>
+      <p>A Python pipeline and REST API for processing scientific microscopy data.</p>
+      <p><code>Python</code> <code>Imaging</code> <code>Data pipelines</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/looskis/kueueski">⚡ kueueski</a></h3>
       <p>A fast command-line client for inspecting and operating BullMQ queues.</p>
       <p><code>Rust</code> <code>BullMQ</code> <code>CLI</code></p>
@@ -34,18 +46,6 @@ I'm a product-minded software engineer in New York, currently building at **Send
       <h3><a href="https://github.com/looskis/blueski">💬 blueski</a></h3>
       <p>An AppleScript-powered macOS Messages daemon for sending and receiving iMessage.</p>
       <p><code>Rust</code> <code>AppleScript</code> <code>macOS</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/lookevink/quantis-core">📚 ESO Portal docs</a></h3>
-      <p>Experiment in latent predictive anomaly detection for infrastructure telemetry</p>
-      <p><code>Python</code> <code>JEPA</code> <code>ML</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/lookevink/srs-preprocessing">🔬 SRS preprocessing</a></h3>
-      <p>A Python pipeline and REST API for processing scientific microscopy data.</p>
-      <p><code>Python</code> <code>Imaging</code> <code>Data pipelines</code></p>
     </td>
   </tr>
 </table>
