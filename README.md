@@ -36,16 +36,16 @@ I'm a product-minded software engineer in New York, currently building at **Send
       <p><code>Rust</code> <code>AppleScript</code> <code>macOS</code></p>
     </td>
   </tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lookevink/quantis-core">📚 ESO Portal docs</a></h3>
+      <p>Experiment in latent predictive anomaly detection for infrastructure telemetry</p>
+      <p><code>Python</code> <code>JEPA</code> <code>ML</code></p>
+    </td>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/lookevink/srs-preprocessing">🔬 SRS preprocessing</a></h3>
       <p>A Python pipeline and REST API for processing scientific microscopy data.</p>
       <p><code>Python</code> <code>Imaging</code> <code>Data pipelines</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/lookevink/eso-portal-doc">📚 ESO Portal docs</a></h3>
-      <p>Product documentation for a real-estate operations platform, built for clarity and fast answers.</p>
-      <p><code>MDX</code> <code>Documentation</code> <code>Product</code></p>
     </td>
   </tr>
 </table>
