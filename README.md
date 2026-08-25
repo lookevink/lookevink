@@ -43,9 +43,9 @@ I'm a product-minded software engineer in New York, currently building at **Send
       <p><code>Rust</code> <code>BullMQ</code> <code>CLI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/looskis/blueski">💬 blueski</a></h3>
-      <p>An AppleScript-powered macOS Messages daemon for sending and receiving iMessage.</p>
-      <p><code>Rust</code> <code>AppleScript</code> <code>macOS</code></p>
+      <h3><a href="https://github.com/lookevink/quantis-robotics">🤖 Quantis Robotics</a></h3>
+      <p>Simulation-first JEPA research for autonomous data-center manipulation.</p>
+      <p><code>Python</code> <code>Isaac Sim</code> <code>JEPA</code></p>
     </td>
   </tr>
 </table>
