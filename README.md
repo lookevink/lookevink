@@ -66,11 +66,11 @@ I'm a product-minded software engineer in New York, currently building at **Send
 ## Latest public activity
 
 <!-- BLOG-POST-LIST:START -->
-- [lookevink deleted](https://github.com/looskis/homebrew-tap/compare/630b3a56d5...0000000000)
-- [lookevink pushed homebrew-tap](https://github.com/looskis/homebrew-tap/compare/be8a0d4b96...b257e8135b)
-- [lookevink contributed to looskis/homebrew-tap](https://github.com/looskis/homebrew-tap/pull/2)
-- [lookevink contributed to looskis/homebrew-tap](https://github.com/looskis/homebrew-tap/pull/2)
-- [lookevink created a branch](https://github.com/looskis/homebrew-tap/compare/0000000000...630b3a56d5)
+- [lookevink pushed quantis-robotics](https://github.com/lookevink/quantis-robotics/compare/fecb9ff86d...8cbbd43738)
+- [lookevink pushed quantis-robotics](https://github.com/lookevink/quantis-robotics/compare/dcb27bae9b...fecb9ff86d)
+- [lookevink released v0.1.0 at lookevink/pi-cmux-notify](https://github.com/lookevink/pi-cmux-notify/releases/tag/v0.1.0)
+- [lookevink created a branch](https://github.com/lookevink/pi-cmux-notify/compare/0000000000...82029e61ca)
+- [lookevink pushed quantis-robotics](https://github.com/lookevink/quantis-robotics/compare/29cafc4cba...814607c3ca)
 <!-- BLOG-POST-LIST:END -->
 
 ## Beyond the code
