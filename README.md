@@ -66,11 +66,11 @@ I'm a product-minded software engineer in New York, currently building at **Send
 ## Latest public activity
 
 <!-- BLOG-POST-LIST:START -->
-- [lookevink deleted](https://github.com/looskis/homebrew-tap/compare/630b3a56d5...0000000000)
-- [lookevink pushed homebrew-tap](https://github.com/looskis/homebrew-tap/compare/be8a0d4b96...b257e8135b)
-- [lookevink contributed to looskis/homebrew-tap](https://github.com/looskis/homebrew-tap/pull/2)
-- [lookevink contributed to looskis/homebrew-tap](https://github.com/looskis/homebrew-tap/pull/2)
-- [lookevink created a branch](https://github.com/looskis/homebrew-tap/compare/0000000000...630b3a56d5)
+- [lookevink starred looskis/tarski](https://github.com/looskis/tarski)
+- [lookevink pushed .github](https://github.com/looskis/.github/compare/2f7e9cd271...1c5b9ff654)
+- [lookevink made this repository public](https://github.com/looskis/runski)
+- [lookevink pushed .github](https://github.com/looskis/.github/compare/9ad21900f3...2f7e9cd271)
+- [lookevink pushed .github](https://github.com/looskis/.github/compare/c707de5696...9ad21900f3)
 <!-- BLOG-POST-LIST:END -->
 
 ## Beyond the code
