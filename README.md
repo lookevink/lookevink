@@ -66,11 +66,11 @@ I'm a product-minded software engineer in New York, currently building at **Send
 ## Latest public activity
 
 <!-- BLOG-POST-LIST:START -->
-- [lookevink deleted](https://github.com/looskis/homebrew-tap/compare/630b3a56d5...0000000000)
-- [lookevink pushed homebrew-tap](https://github.com/looskis/homebrew-tap/compare/be8a0d4b96...b257e8135b)
-- [lookevink contributed to looskis/homebrew-tap](https://github.com/looskis/homebrew-tap/pull/2)
-- [lookevink contributed to looskis/homebrew-tap](https://github.com/looskis/homebrew-tap/pull/2)
-- [lookevink created a branch](https://github.com/looskis/homebrew-tap/compare/0000000000...630b3a56d5)
+- [lookevink opened a pull request in homebrew-tap](https://github.com/lookevink/homebrew-tap/pull/1)
+- [lookevink created a branch](https://github.com/lookevink/homebrew-tap/compare/0000000000...86ae9f6492)
+- [lookevink released v0.1.0 at lookevink/screenski](https://github.com/lookevink/screenski/releases/tag/v0.1.0)
+- [lookevink created a branch](https://github.com/lookevink/screenski/compare/0000000000...364d0d4efe)
+- [lookevink starred magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
 <!-- BLOG-POST-LIST:END -->
 
 ## Beyond the code
