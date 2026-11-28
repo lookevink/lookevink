@@ -66,11 +66,11 @@ I'm a product-minded software engineer in New York, currently building at **Send
 ## Latest public activity
 
 <!-- BLOG-POST-LIST:START -->
-- [lookevink deleted](https://github.com/looskis/homebrew-tap/compare/630b3a56d5...0000000000)
-- [lookevink pushed homebrew-tap](https://github.com/looskis/homebrew-tap/compare/be8a0d4b96...b257e8135b)
-- [lookevink contributed to looskis/homebrew-tap](https://github.com/looskis/homebrew-tap/pull/2)
-- [lookevink contributed to looskis/homebrew-tap](https://github.com/looskis/homebrew-tap/pull/2)
-- [lookevink created a branch](https://github.com/looskis/homebrew-tap/compare/0000000000...630b3a56d5)
+- [lookevink pushed atlaski](https://github.com/looskis/atlaski/compare/6e763153e2...f4444c0c3a)
+- [lookevink pushed omni-docs](https://github.com/sendblue-api/omni-docs/compare/818fffc046...23267fe309)
+- [lookevink contributed to sendblue-api/omni-docs](https://github.com/sendblue-api/omni-docs/pull/5)
+- [lookevink created a branch](https://github.com/sendblue-api/omni-docs/compare/0000000000...033b47a3bd)
+- [lookevink contributed to sendblue-api/omni-docs](https://github.com/sendblue-api/omni-docs/pull/5)
 <!-- BLOG-POST-LIST:END -->
 
 ## Beyond the code
